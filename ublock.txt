@@ -37,6 +37,8 @@ formula.hu##.post-tag-bar.row
 formula.hu##div.post-social-bar.row
 formula.hu##div.side-banner:nth-of-type(4)
 formula.hu##footer.container
+forum.mobilism.me##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
+forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
 fuzovelkifele.com###mvp-foot-bot
 fuzovelkifele.com###mvp-foot-soc
 fuzovelkifele.com###mvp-foot-wrap
