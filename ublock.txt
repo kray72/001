@@ -37,8 +37,6 @@ formula.hu##.post-tag-bar.row
 formula.hu##div.post-social-bar.row
 formula.hu##div.side-banner:nth-of-type(4)
 formula.hu##footer.container
-forum.mobilism.me##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
-forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
 fuzovelkifele.com###mvp-foot-bot
 fuzovelkifele.com###mvp-foot-soc
 fuzovelkifele.com###mvp-foot-wrap
@@ -99,7 +97,3 @@ uploadrar.com##footer
 xdaforums.com##.p-description
 xdaforums.com##.p-footer
 xdaforums.com###xdaforums_leaderboard_atf
-forum.mobilism.me##.footable-loaded.default.announcement.table-hover.table-primary.table-white.table.footable
-forum.mobilism.me##tr.sticky
-forum.mobilism.me##tr.global-announce > .footable-first-column.footable-last-column.expand
-forum.mobilism.me##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable .footable-first-column.footable-last-column
