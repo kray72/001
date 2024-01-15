@@ -101,3 +101,5 @@ forum.mobilism.me##tr.global-announce
 forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
 forum.mobilism.me##tr.sticky:nth-of-type(1)
 forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
+forum.mobilism.me##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
+forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
