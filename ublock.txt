@@ -98,5 +98,4 @@ xdaforums.com##.p-description
 xdaforums.com##.p-footer
 xdaforums.com###xdaforums_leaderboard_atf
 forum.mobilism.me##tr.global-announce
-!forum.mobilism.me##tr.sticky:nth-of-type(1)
-forum.mobilism.me##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
+forum.mobilism.me##tr.sticky:nth-of-type(1)
