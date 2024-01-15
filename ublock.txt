@@ -103,3 +103,6 @@ forum.mobilism.me##.mobil-odd.well-small.well > .postbody > .hidden-phone
 forum.mobilism.me##.space10
 forum.mobilism.me##tr.global-announce
 forum.mobilism.me##.footable-loaded.default.announcement.table-hover.table-primary.table-white.table.footable tr
+forum.mobilism.me##.footable-loaded.default.announcement.table-hover.table-primary.table-white.table.footable .footable-first-column
+forum.mobilism.me##.footable-loaded.default.announcement.table-hover.table-primary.table-white.table.footable .large80
+forum.mobilism.me##.footable-loaded.default.announcement.table-hover.table-primary.table-white.table.footable .footable-last-column.large20
