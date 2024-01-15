@@ -99,3 +99,4 @@ xdaforums.com##.p-footer
 xdaforums.com###xdaforums_leaderboard_atf
 forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
 forum.mobilism.me##tr.global-announce
+forum.mobilism.me##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
