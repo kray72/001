@@ -102,3 +102,4 @@ xdaforums.com###xdaforums_leaderboard_atf
 forum.mobilism.me##.footable-loaded.default.announcement.table-hover.table-primary.table-white.table.footable
 forum.mobilism.me##tr.sticky
 forum.mobilism.me##tr.global-announce > .footable-first-column.footable-last-column.expand
+forum.mobilism.me##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable .footable-first-column.footable-last-column
