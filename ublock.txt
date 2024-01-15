@@ -97,4 +97,4 @@ uploadrar.com##footer
 xdaforums.com##.p-description
 xdaforums.com##.p-footer
 xdaforums.com###xdaforums_leaderboard_atf
-forum.mobilism.me##tr.sticky
+forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
