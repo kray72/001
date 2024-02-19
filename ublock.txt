@@ -37,6 +37,9 @@ formula.hu##.post-tag-bar.row
 formula.hu##div.post-social-bar.row
 formula.hu##div.side-banner:nth-of-type(4)
 formula.hu##footer.container
+forum.mobilism.me##tr.global-announce
+forum.mobilism.me##tr.sticky
+forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
 fuzovelkifele.com###mvp-foot-bot
 fuzovelkifele.com###mvp-foot-soc
 fuzovelkifele.com###mvp-foot-wrap
@@ -74,12 +77,14 @@ telex.hu##.layout14a.listing--otp.listing.block
 telex.hu##.layout14b.listing--holdblog.listing.block
 telex.hu##.layout14c.listing--bunteto.listing.block
 telex.hu##.modal--overlay
+telex.hu##.recommendation--partners.recommendation
 telex.hu##.remp-banner
 telex.hu##.s-screen.recommendation--partners.recommendation
 telex.hu##.s-screen.telex-links
 telex.hu##.support-box--eszkombajn
 telex.hu##.support-box--video.support-box--after
 telex.hu##.technical-embed.placeholder
+telex.hu##.telex-links
 telex.hu##.title-section__sponsored
 telex.hu##.top-shr
 telex.hu###donate-navigation-right-link
@@ -97,6 +102,3 @@ uploadrar.com##footer
 xdaforums.com##.p-description
 xdaforums.com##.p-footer
 xdaforums.com###xdaforums_leaderboard_atf
-forum.mobilism.me##tr.sticky
-forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
-forum.mobilism.me##tr.global-announce
