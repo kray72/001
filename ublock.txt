@@ -102,3 +102,4 @@ uploadrar.com##footer
 xdaforums.com##.p-description
 xdaforums.com##.p-footer
 xdaforums.com###xdaforums_leaderboard_atf
+telex.hu###modal--share-with-others
