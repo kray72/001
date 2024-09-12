@@ -45,11 +45,11 @@ fuzovelkifele.com###mvp-foot-soc
 fuzovelkifele.com###mvp-foot-wrap
 fuzovelkifele.com###rpt_pricr
 gamepod.hu##.content-list-detailed.content-list
-gamepod.hu##.msg-modified
-gamepod.hu##.msg-sign
-gamepod.hu##.userjob-list
-gamepod.hu###foot
-gamepod.hu###right
+hu##.msg-modified
+hu##.msg-sign
+hu##.userjob-list
+hu###foot
+hu###right
 girlswithmuscle.com###footer-div
 hu.m.wikipedia.org##.minerva-footer-logo
 hu.m.wikipedia.org##.minerva-footer.mw-footer
