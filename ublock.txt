@@ -44,7 +44,7 @@ fuzovelkifele.com###mvp-foot-bot
 fuzovelkifele.com###mvp-foot-soc
 fuzovelkifele.com###mvp-foot-wrap
 fuzovelkifele.com###rpt_pricr
-gamepod.hu##.content-list-detailed.content-list
+hu##.content-list-detailed.content-list
 hu##.msg-modified
 hu##.msg-sign
 hu##.userjob-list
