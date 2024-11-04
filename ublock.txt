@@ -103,3 +103,5 @@ xdaforums.com##.p-description
 xdaforums.com##.p-footer
 xdaforums.com###xdaforums_leaderboard_atf
 telex.hu###modal--share-with-others
+mobilism.me##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
+mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
