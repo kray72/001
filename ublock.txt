@@ -1,40 +1,6 @@
-24.hu###footer
-24.hu##._ce_measure_appear._ce_measure_widget.text-center.d-xl-none.d-block
-24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
-24.hu##.cf.m-author.o-post__authorAndDateWrap
-formula.hu##.banners
-formula.hu##.fb-recommend-link.post-recommend-title-bar.row
-formula.hu##.post-tag-bar.row
-formula.hu##div.post-social-bar.row
-formula.hu##div.side-banner:nth-of-type(1)
-formula.hu##div.side-banner:nth-of-type(4)
-formula.hu##footer.container
-forum.mobilism.org##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
-forum.mobilism.org##tr.global-announce
-forum.mobilism.org##tr.sticky > .footable-first-column.footable-last-column.expand
-m4sport.hu###col-3085-1 > .colwrapper
-m4sport.hu###wrapper-3076
-m4sport.hu###wrapper-3925
-m4sport.hu###wrapper-3934
-m4sport.hu##.EBFeedAndChatCont.tabella_tabs_wrapper
-m4sport.hu##.footwrapper
-m4sport.hu##.inner-container.widget_livestreamselector.widget
-prohardver.hu###foot
-prohardver.hu##.list-unstyled .content-list
-prohardver.hu##.userjob-list
-telex.hu##.article-content.article-bottom
-telex.hu##.article-content.support-box
-telex.hu##.article-content.top-section
-telex.hu##.footer
-telex.hu##.modal--overlay
-telex.hu##.telex-links
-tvprofil.com##.bottom.row
-tvprofil.com##.toptitle.row
-tvprofil.com##div.background2:nth-of-type(5)
-tvprofil.com##div.row:nth-of-type(3)
-www.telekom.hu##.footer
-xdaforums.com###footer
-xdaforums.com##.block--similarContents.block-container
-xdaforums.com##.js-pollContainer-31243.block
-xdaforums.com##.js-pollContainer-31243.block > .block-container > .block-body
-xdaforums.com##.p-body-sidebar
+telex.hu##DIV[class="telex-links"]
+telex.hu##DIV[class="article-bottom article-content"]
+telex.hu##DIV[class="support-box article-content"]
+telex.hu##FOOTER[class="footer"]
+24.hu##FOOTER[id="footer"][class="o-page__footer site-footer o-footer"]
+24.hu##DIV[class="widget m-recommendedVideoWidget cf _ce_measure_widget"]
