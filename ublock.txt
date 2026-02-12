@@ -1,107 +1,40 @@
-24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
 24.hu###footer
-aldi.hu##.anchorTopFixed.footer-2
-apkdone.com##p.sponsor-text
-apkdone.com##p.sponsor-text:nth-of-type(1)
-arukereso.hu##.homebanner-box
-arukereso.hu##.page-info
-arukereso.hu##.promotion-container
-arukereso.hu##.topPartners
-arukereso.hu###app-promo
-arukereso.hu###page-footer
-arukereso.hu##h2:nth-of-type(2)
-blikk.hu##.align-items-center.maincontent.media
-blikk.hu##.d-flex.google-news
-blikk.hu##.impressum > ul
-blikk.hu##.leftSide.mx-lg-0.mx-auto.col-lg-8.col-12 > div.row
-blikk.hu##.nav
-blikk.hu##.nav > .maincontent
-blikk.hu###articleOfferFlag
-blikk.hu###subscription-box-container
-blikk.hu##article.mb-3.col-md-4.recommended:nth-of-type(10)
-blikk.hu##section.basicCreative.mb-4.colSide.blockWrapper
-bowl.hu##.cookieinfo
-bowl.hu##.post-signature
-bowl.hu###cookieinfo-mask
-bowl.hu##footer
-dehir.hu##.bside
-dehir.hu##.cimkek
-dehir.hu##.facebook-megosztas
-dehir.hu##.in.fade.modal
-dehir.hu###hideLattaMar
-dehir.hu###twitter-widget-0
-dehir.hu##body:style(overflow: auto !important;)
-formula.hu##.banner-box.text-center.banner
+24.hu##._ce_measure_appear._ce_measure_widget.text-center.d-xl-none.d-block
+24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
+24.hu##.cf.m-author.o-post__authorAndDateWrap
+formula.hu##.banners
 formula.hu##.fb-recommend-link.post-recommend-title-bar.row
 formula.hu##.post-tag-bar.row
 formula.hu##div.post-social-bar.row
+formula.hu##div.side-banner:nth-of-type(1)
 formula.hu##div.side-banner:nth-of-type(4)
 formula.hu##footer.container
-forum.mobilism.me##tr.global-announce
-forum.mobilism.me##tr.sticky
-forum.mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
-fuzovelkifele.com###mvp-foot-bot
-fuzovelkifele.com###mvp-foot-soc
-fuzovelkifele.com###mvp-foot-wrap
-fuzovelkifele.com###rpt_pricr
-hu##.content-list-detailed.content-list
-hu##.msg-modified
-hu##.msg-sign
-hu##.userjob-list
-hu###foot
-hu###right
-girlswithmuscle.com###footer-div
-hu.m.wikipedia.org##.minerva-footer-logo
-hu.m.wikipedia.org##.minerva-footer.mw-footer
-m4sport.hu##.ads_show_ad_title.goAdverticumNonInfinite.googleAdPlaceHolder.goAdverticum
+forum.mobilism.org##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
+forum.mobilism.org##tr.global-announce
+forum.mobilism.org##tr.sticky > .footable-first-column.footable-last-column.expand
+m4sport.hu###col-3085-1 > .colwrapper
+m4sport.hu###wrapper-3076
+m4sport.hu###wrapper-3925
+m4sport.hu###wrapper-3934
+m4sport.hu##.EBFeedAndChatCont.tabella_tabs_wrapper
 m4sport.hu##.footwrapper
-m4sport.hu##.hms_article_cat
-m4sport.hu##.hms_tag_and_social_wrapper
-m4sport.hu##.HotTopic_Widget_Container
-m4sport.hu##.m4-redesignMenu.wrapper.ult-wrapper
-m4sport.hu##.socialShare
-m4sport.hu###livestreamselector-3
-m4sport.hu###portfolio_container
-portfolio.hu##.footer-wrapper .container > .row
-portfolio.hu##.paywall
-share-nude.com###embed-float
-share-nude.com###embed-float
-share-nude.com###footer
-telex.hu##.ad.placeholder
+m4sport.hu##.inner-container.widget_livestreamselector.widget
+prohardver.hu###foot
+prohardver.hu##.list-unstyled .content-list
+prohardver.hu##.userjob-list
 telex.hu##.article-content.article-bottom
 telex.hu##.article-content.support-box
 telex.hu##.article-content.top-section
-telex.hu##.fb-box
 telex.hu##.footer
-telex.hu##.layout14a.listing--otp.listing.block
-telex.hu##.layout14b.listing--holdblog.listing.block
-telex.hu##.layout14c.listing--bunteto.listing.block
 telex.hu##.modal--overlay
-telex.hu##.recommendation--partners.recommendation
-telex.hu##.remp-banner
-telex.hu##.s-screen.recommendation--partners.recommendation
-telex.hu##.s-screen.telex-links
-telex.hu##.support-box--eszkombajn
-telex.hu##.support-box--video.support-box--after
-telex.hu##.technical-embed.placeholder
 telex.hu##.telex-links
-telex.hu##.title-section__sponsored
-telex.hu##.top-shr
-telex.hu###donate-navigation-right-link
-telex.hu###gpt_telex_cover_mobile_leaderboard_left_1
-telex.hu###gpt_telex_cover_mobile_leaderboard_left_2
-telex.hu###gpt_telex_cover_mobile_rectangle_left_1
-telex.hu##div.content-wrapper
-telex.hu##p.ad
-uploadrar.com##.col-lg-8.col-md-8.col-sm-12.col-xs-12
-uploadrar.com##.menufooter
-uploadrar.com##.sharefile
-uploadrar.com###gdpr-cookie-notice
-uploadrar.com###gdpr-cookie-notice > div
-uploadrar.com##footer
-xdaforums.com##.p-description
-xdaforums.com##.p-footer
-xdaforums.com###xdaforums_leaderboard_atf
-telex.hu###modal--share-with-others
-mobilism.me##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
-mobilism.me##tr.sticky > .footable-first-column.footable-last-column.expand
+tvprofil.com##.bottom.row
+tvprofil.com##.toptitle.row
+tvprofil.com##div.background2:nth-of-type(5)
+tvprofil.com##div.row:nth-of-type(3)
+www.telekom.hu##.footer
+xdaforums.com###footer
+xdaforums.com##.block--similarContents.block-container
+xdaforums.com##.js-pollContainer-31243.block
+xdaforums.com##.js-pollContainer-31243.block > .block-container > .block-body
+xdaforums.com##.p-body-sidebar
