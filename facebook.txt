@@ -1,0 +1,21 @@
+! Facebook sponsored posts — stable container detection
+! facebook.com##[data-ad-rendering-role="profile_name"]:upward(div:has([data-ad-rendering-role="story_message"]):has([data-ad-rendering-role="cta-"]))
+facebook.com##[data-ad-rendering-role="profile_name"]:upward([aria-posinset]:has([data-ad-rendering-role="story_message"]):has([data-ad-rendering-role^="cta-"]))
+facebook.com##div[role="article"]:has([data-ad-rendering-role="profile_name"]):has([data-ad-rendering-role="story_message"]):has([data-ad-rendering-role^="cta-"])
+
+! Facebook - ADS
+! >> uBlock filters - Annoyances should remove Suggested posts without a need for additional filters <<
+! Suggested for you
+facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) div:not(:only-child)>div:only-child>div:only-child>div:first-child[class=""]>div:not([data-0]):has-text(/^Suggested/):upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+! Unlabelled Suggested posts (with a Follow/Join buttons)
+facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) :is(h3,h4) [role=button]:has-text(/Follow|Join/):upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+! Use only if you actually have these: Suggested posts with the label next to the post date
+facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has-text(Suggested for you):style(height: 0 !important; overflow: hidden !important;)
+! People You May Know
+facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([href="/friends/"]):style(height: 0 !important; overflow: hidden !important;)
+! Suggested groups
+facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([href="/groups/discover/"]):style(height: 0 !important; overflow: hidden !important;)
+! Reels and short videos (English UI)
+! facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([aria-label="Reels"]):style(height: 0 !important; overflow: hidden !important;)
+! Suggested pages
+facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([aria-label="Suggested pages"]):style(height: 0 !important; overflow: hidden !important;)
