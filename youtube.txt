@@ -9,3 +9,10 @@ youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-r
 
 ! YT Members Only Filter
 youtube.com##:is(ytd-rich-item-renderer,yt-lockup-view-model):has(.ytBadgeShapeMembership,[aria-label="Members only"],[d^="M6 .5a5.5 5.5"])
+
+! Privat
+youtube.com###footer
+youtube.com##.ytTooltipContainerHost:not(.ytd-notification-renderer)
+youtube.com##.ytp-tooltip:not(.ytp-preview)
+youtube.com##yt-thumbnail-hover-overlay-toggle-actions-view-model
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
