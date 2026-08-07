@@ -1,6 +1,0 @@
-telex.hu##DIV[class="telex-links"]
-telex.hu##DIV[class="article-bottom article-content"]
-telex.hu##DIV[class="support-box article-content"]
-telex.hu##FOOTER[class="footer"]
-24.hu##FOOTER[id="footer"][class="o-page__footer site-footer o-footer"]
-24.hu##DIV[class="widget m-recommendedVideoWidget cf _ce_measure_widget"]
