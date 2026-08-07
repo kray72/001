@@ -28,6 +28,6 @@ facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([
 ! Suggested groups
 facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([href="/groups/discover/"]):style(height: 0 !important; overflow: hidden !important;)
 ! Reels and short videos (English UI)
-facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([aria-label="Reels-videók"]):style(height: 0 !important; overflow: hidden !important;)
+facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([aria-label="Reels"]):style(height: 0 !important; overflow: hidden !important;)
 ! Suggested pages
 facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([aria-label="Suggested pages"]):style(height: 0 !important; overflow: hidden !important;)
