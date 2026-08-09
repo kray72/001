@@ -28,6 +28,12 @@ facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([
 ! Suggested groups
 facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([href="/groups/discover/"]):style(height: 0 !important; overflow: hidden !important;)
 ! Reels and short videos (English UI)
-! facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([aria-label="Reels"]):style(height: 0 !important; overflow: hidden !important;)
+facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([aria-label="Reels"]):style(height: 0 !important; overflow: hidden !important;)
 ! Suggested pages
 facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([aria-label="Suggested pages"]):style(height: 0 !important; overflow: hidden !important;)
+
+! Privat
+facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5
+facebook.com##[aria-label="Történetek"], [style^="border-radius:"]:has([d^="M19.5 3.75A1.75 1.75"])
+facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.x1jx94hy.x1ja2u2z.x1n2onr6 > .x10wlt62.x6ikm8r
+youtube.com###page-header-banner
