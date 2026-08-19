@@ -10,6 +10,9 @@ youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-r
 ! YT Members Only Filter
 youtube.com##:is(ytd-rich-item-renderer,yt-lockup-view-model):has(.ytBadgeShapeMembership,[aria-label="Members only"],[d^="M6 .5a5.5 5.5"])
 
+! Privat
+youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+
 ! Facebook sponsored posts — stable container detection
 ! facebook.com##[data-ad-rendering-role="profile_name"]:upward(div:has([data-ad-rendering-role="story_message"]):has([data-ad-rendering-role="cta-"]))
 facebook.com##[data-ad-rendering-role="profile_name"]:upward([aria-posinset]:has([data-ad-rendering-role="story_message"]):has([data-ad-rendering-role^="cta-"]))
